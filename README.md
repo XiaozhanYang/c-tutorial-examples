@@ -1,2 +1,2 @@
 # c-tutorial-examples
-Some examples that showcase the different parts of C programming language.
+This repo contains some examples that showcase the different parts of C programming language.
