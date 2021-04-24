@@ -1,2 +1,2 @@
 # c-tutorial-examples
-Some examples showcase the different parts of C programming language.
+Some examples that showcase the different parts of C programming language.
